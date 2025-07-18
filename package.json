@@ -55,7 +55,8 @@
     "typescript-eslint": "^8.20.0"
   },
   "overrides": {
-    "multer": "^2.0.2"
+    "multer": "^2.0.2",
+    "subscriptions-transport-ws": "npm:graphql-ws@^5.16.0"
   },
   "jest": {
     "moduleFileExtensions": [
